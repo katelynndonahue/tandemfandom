@@ -37,7 +37,13 @@ SO THAT I can talk to and meet other people with the same interests
 
 ## Usage
 
-![Screenshot of Final Code] (./client/public/images/tandemFandomScreenShot.png))
+![Screenshot of Landing Page](./client/public/images/screenshots/landingPage.png)
+
+![Screenshot of Signin Page](./client/public/images/screenshots/signInPage.png)
+
+![Screenshot of Profile Page](./client/public/images/screenshots/profilePage.png)
+
+![Screenshot of Potential Matches](./client/public/images/screenshots/potentialMatches.png)
 
 ## Credits
 
